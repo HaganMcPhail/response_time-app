@@ -1,0 +1,32 @@
+body
+{
+  min-height:100vh;
+  background: -webkit-linear-gradient(#acacac, #000000); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(#acacac, #000000); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(#acacac, #000000); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(#acacac, #000000); /* Standard syntax */
+}
+div.panel
+{
+	margin-top:40px;
+}
+div#button
+{
+	height:250px;
+	width:100%;
+	background-color:red;
+}
+.green
+{
+	background: -webkit-linear-gradient(#59E817, #099800); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#59E817, #099800); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#59E817, #099800); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#59E817, #099800); /* Standard syntax */
+}
+.red
+{
+	background: -webkit-linear-gradient(#DA2828, #B20000); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(#DA2828, #B20000); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(#DA2828, #B20000); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(#DA2828, #B20000); /* Standard syntax */
+}
